@@ -5,3 +5,7 @@
 - http://www.ibis-project.org/ : Python analysis framework for SQL engines and Hadoop
 - https://github.com/confluentinc/demos : Stream processing demo showing how Kafka can be used to create a real-time dashboard at scale.
 - http://geospark.datasyslab.org/ : A cluster computing framework for processing large-scale spatial data
+- http://blaze.pydata.org/ : The Blaze ecosystem is a set of libraries that help users store, describe, query and process data.  (multicore pandas)
+- 
+# research
+- https://github.com/ResearchStack - health survey by google
